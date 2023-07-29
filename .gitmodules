@@ -1,0 +1,3 @@
+[submodule "gogrepoc"]
+	path = gogrepoc
+	url = https://github.com/Kalanyr/gogrepoc.git
